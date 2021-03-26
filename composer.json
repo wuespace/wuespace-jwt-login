@@ -1,0 +1,18 @@
+{
+  "name": "wuespace/wuespace-jwt-login",
+  "description": "A PHP-based Login System/JWT Token Dispenser for organization members",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WüSpace e. V.",
+      "email": "kontakt@wuespace.de"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "v5.2.0"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  }
+}

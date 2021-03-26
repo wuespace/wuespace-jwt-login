@@ -1,0 +1,7 @@
+{
+  "password":"SOME_TOKEN_HERE",
+  "data": {
+    "role": "member",
+    "meerkats-editor-at": ["https://wp.pabloklaschka.de/"]
+  }
+}

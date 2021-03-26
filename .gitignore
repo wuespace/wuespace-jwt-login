@@ -1,0 +1,6 @@
+/vendor
+
+# IDEs
+.idea
+.vscode
+*.iml
