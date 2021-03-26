@@ -71,6 +71,14 @@ A user file is structured in the following way:
 `"data"` can contain any data and is readable by any application that consumes the token.
 It can, thus, for example contain information about specific permissions within a system and so on.
 
+#### Adding a user
+You can use the integrated micro-CLI to add a new user.
+
+To use it, set the `NEW_USERNAME` and `NEW_PASSWORD` environment variables to their respective
+values and run `php data/cli-add-user.php`.
+The script will automatically hash the `NEW_PASSWORD` and save a corresponding
+user file into the `users` folder.
+
 ## Usage
 
 ### Forwarding
