@@ -12,10 +12,9 @@
 1. Login to your server
 2. Create a suitable domain (e.g., https://login.wuespace.de)
 3. Clone this repository
-4. Build the stylesheet by running the `build_tailwind.sh` shell script
-5. Run `php composer.phar install` to install required dependencies
-6. Configure the login system (cf. *Configuration*)
-7. Forward your domain to the root of the cloned repository folder
+4. Run `php composer.phar install` to install required dependencies
+5. Configure the login system (cf. *Configuration*)
+6. Forward your domain to the root of the cloned repository folder
 
 ## Configuration
 All configuration takes place in the `data` folder.

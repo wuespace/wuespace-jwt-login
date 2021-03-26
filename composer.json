@@ -9,6 +9,11 @@
       "email": "kontakt@wuespace.de"
     }
   ],
+  "scripts": {
+    "post-install-cmd": [
+      "NODE_ENV=production npx tailwindcss-cli@latest build ./css/src.css -o ./css/tailwind.css"
+    ]
+  },
   "require": {
     "firebase/php-jwt": "^v5.2.1"
   },
