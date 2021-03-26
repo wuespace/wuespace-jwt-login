@@ -19,6 +19,5 @@
   },
   "require-dev": {
     "roave/security-advisories": "dev-master"
-  },
-  "version": "0.1.0"
+  }
 }
