@@ -1,4 +1,13 @@
-# 0.1.0 (2021-03-26)
+## [0.1.1](https://github.com/wuespace/wuespace-jwt-login/compare/v0.1.0...v0.1.1) (2021-03-26)
+
+
+### Bug Fixes
+
+* Fix version file problems ([f40ca92](https://github.com/wuespace/wuespace-jwt-login/commit/f40ca92f4bde42a0a6615af6ae88ccb528ce1869))
+
+
+
+# [0.1.0](https://github.com/wuespace/wuespace-jwt-login/compare/9b5f79744bc4e171904579ec1187f334cf89a41f...v0.1.0) (2021-03-26)
 
 
 ### Bug Fixes
