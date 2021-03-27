@@ -2,7 +2,10 @@
 
 > A PHP-based Login System/JWT Token Dispenser for organization members
 
+![Screenshot](img/screenshot.png)
+
 ## System Requirements
+
 - Linux-based web server running Apache 2 and PHP 7.2+
 - npm (with the `npx` command)
 - `ssh-keygen` and `openssl`
