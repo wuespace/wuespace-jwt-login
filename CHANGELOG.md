@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/wuespace/wuespace-jwt-login/compare/v0.1.1...v0.2.0) (2021-03-27)
+
+
+### Features
+
+* **frontend:** Add Favicons ([#4](https://github.com/wuespace/wuespace-jwt-login/issues/4)) ([f0d4d9c](https://github.com/wuespace/wuespace-jwt-login/commit/f0d4d9cf55fe886b36bc6c87ed0cb3aaa4af0ece)), closes [#2](https://github.com/wuespace/wuespace-jwt-login/issues/2)
+
+
+
 ## [0.1.1](https://github.com/wuespace/wuespace-jwt-login/compare/v0.1.0...v0.1.1) (2021-03-26)
 
 
