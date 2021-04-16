@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/wuespace/wuespace-jwt-login/compare/v0.2.0...v0.2.1) (2021-04-16)
+
+
+### Bug Fixes
+
+* Rename "Mitgliedsnummer" to "Nutzername" ([de23190](https://github.com/wuespace/wuespace-jwt-login/commit/de23190b2b3d3f7d521cef0ef64ef3ce38ac794f))
+
+
+
 # [0.2.0](https://github.com/wuespace/wuespace-jwt-login/compare/v0.1.1...v0.2.0) (2021-03-27)
 
 
