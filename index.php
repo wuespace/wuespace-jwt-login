@@ -57,7 +57,7 @@ require_once 'system/setup.php';
             <?php endif; ?>
             <p class="mt-4">
                 <label>
-                    Mitgliedsnummer:<br>
+                    Nutzername:<br>
                     <input value="<?=empty($_POST['username']) ? '' : htmlspecialchars($_POST['username'])?>"
                            type="text" name="username" required class="border-b block w-full" autofocus>
                 </label>
