@@ -6,7 +6,8 @@
 
 set -e
 
-PHP_FILE="./cli-add-user.php"
+SCRIPT_DIR="$(dirname "$0")"
+PHP_FILE="${SCRIPT_DIR}/cli-add-user.php"
 
 # use clean path
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
