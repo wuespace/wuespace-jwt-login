@@ -15,7 +15,7 @@
     ]
   },
   "require": {
-    "firebase/php-jwt": "^v5.2.1"
+    "firebase/php-jwt": "^v6.3.0"
   },
   "require-dev": {
     "roave/security-advisories": "dev-master"
